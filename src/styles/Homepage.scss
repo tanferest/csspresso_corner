@@ -1,0 +1,44 @@
+@import './Variables.scss';
+@import './Mixins.scss';
+@import './Components.scss';
+
+.homepage {
+    background: url(../images/local/background-pexels-afta-putta-gunawan-683039.jpg) no-repeat center / cover;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5%;
+    &__cover {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        min-height: 100vh;
+        background-color: $dark-cover
+    }
+    &__wrapper {
+        z-index: 10;
+        background-color: $main-color;
+        height: 50vh;
+        position: relative;
+        margin: 60px 0 30px 0;
+        padding: 5%;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    &__text {
+        color: $second-color;
+        line-height: 2.2rem;
+        text-align: justify;
+        letter-spacing: .05rem;
+        word-spacing: -0.1rem;
+    }
+    &__btn {
+        z-index: 100;
+    }
+}

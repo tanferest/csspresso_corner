@@ -1,0 +1,754 @@
+[
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Cafe",
+    "product": "Espresso Cortado",
+    "image": "/images/espresso_cortado.png",
+    "price": 1.6,
+    "description": "Un espresso concentrado con una pequeña cantidad de leche vaporizada, creando una experiencia intensa y equilibrada para los amantes del café fuerte."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Cafe",
+    "product": "Capuchino",
+    "image": "/images/capuchino.png",
+    "price": 2.2,
+    "description": "La clásica mezcla italiana de espresso, leche vaporizada y espuma de leche cremosa. Experimenta la armonía perfecta de sabores en cada sorbo."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Cafe",
+    "product": "Latte de Vainilla",
+    "price": 2.2,
+    "image": "/images/latte_de_vainilla.png",
+    "description": "Un latte suave y cremoso con un toque de esencia de vainilla, ofreciendo una experiencia con una nota dulce y reconfortante."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Cafe",
+    "product": "Mocha Especial",
+    "image": "/images/mocha_especial.png",
+    "price": 2.5,
+    "description": "Una deliciosa combinación de espresso, leche vaporizada y un toque de chocolate. El Mocha Especial es la elección perfecta para los amantes del chocolate y el café."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Te",
+    "product": "Earl Grey Clásico",
+    "image": "/images/earl_grey_clasico.png",
+    "price": 2.0,
+    "description": "Un té negro aromatizado con aceite de bergamota, que ofrece una experiencia clásica y refrescante con notas cítricas."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Te",
+    "product": "Té Verde Zen",
+    "image": "/images/te_verde_zen.png",
+    "price": 1.8,
+    "description": "Un té verde suave y relajante, infusionado con hierbas aromáticas para crear un equilibrio perfecto entre frescura y tranquilidad."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Te",
+    "product": "Té Negro de Frutas del Bosque",
+    "image": "/images/te_negro_frutas_bosque.png",
+    "price": 2.2,
+    "description": "Un té negro con la energía de las frutas del bosque, ofreciendo una explosión de sabores vibrantes y una experiencia revitalizante."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Te",
+    "product": "Té de Jazmín Aromático",
+    "image": "/images/te_jazmin_aromatico.png",
+    "price": 2.0,
+    "description": "Un té verde delicado infusionado con flores de jazmín, creando una fragancia floral única y una experiencia calmante."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Te",
+    "product": "Té de Hierbabuena Relajante",
+    "image": "/images/te_hierbabuena.png",
+    "price": 1.9,
+    "description": "Un té de hierbabuena refrescante y relajante, perfecto para momentos de calma y tranquilidad."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Infusiones",
+    "product": "Manzanilla",
+    "image": "/images/manzanilla.png",
+    "price": 1.8,
+    "description": "Una infusión de manzanilla con propiedades calmantes, ideal para relajarse y disfrutar de un momento de paz."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Infusiones",
+    "product": "Rooibos Vainilla",
+    "image": "/images/rooibos_vainilla.png",
+    "price": 2.0,
+    "description": "El rooibos africano infusionado con suaves notas de vainilla, creando una mezcla reconfortante y sin cafeína."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Infusiones",
+    "product": "Tisana de Frutas Tropicales",
+    "image": "/images/tisana_frutas.png",
+    "price": 2.2,
+    "description": "Una tisana tropical con una mezcla exótica de frutas, proporcionando un escape a un paraíso de sabores vibrantes."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Infusiones",
+    "product": "Infusión de Hibisco y Rosa",
+    "image": "/images/inf_hibisco_rosa.png",
+    "price": 2.1,
+    "description": "Una infusión vibrante de hibisco y rosa, con un toque floral y refrescante que deleitará tus sentidos."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Infusiones",
+    "product": "Infusión de Cúrcuma y Jengibre",
+    "image": "/images/inf_curcuma_jengibre.png",
+    "price": 2.3,
+    "description": "Una infusión saludable de cúrcuma y jengibre, conocidos por sus propiedades antiinflamatorias y su sabor especiado y cálido."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Chocolates Calientes",
+    "product": "Chocolate Caliente Clásico",
+    "image": "/images/chocolate_clasico.png",
+    "price": 2.5,
+    "description": "Una deliciosa taza de chocolate caliente clásico, suave y reconfortante, perfecto para los amantes del chocolate."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Chocolates Calientes",
+    "product": "Chocolate con Menta Fresca",
+    "image": "/images/chocolate_menta.png",
+    "price": 2.8,
+    "description": "El clásico chocolate caliente con un toque refrescante de menta, creando una experiencia única y revitalizante."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Chocolates Calientes",
+    "product": "Mocha Blanco",
+    "image": "/images/mocha_blanco.png",
+    "price": 3.0,
+    "description": "Una mezcla de chocolate blanco y café, creando un mocha suave y cremoso para disfrutar en cualquier momento."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Chocolates Calientes",
+    "product": "Chocolate Picante Mexicano",
+    "image": "/images/chocolate_picante.png",
+    "price": 2.7,
+    "description": "Un emocionante chocolate caliente con un toque picante al estilo mexicano, combinando sabores intensos y exóticos."
+  },
+  {
+    "category": "Hot Drinks",
+    "subcategory": "Chocolates Calientes",
+    "product": "Chocolate Caliente con Malvaviscos",
+    "image": "/images/chocolate_malvaviscos.png",
+    "price": 3.2,
+    "description": "Una taza de chocolate caliente cubierta con malvaviscos esponjosos, creando una experiencia reconfortante y deliciosa."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Café Helado",
+    "product": "Cold Brew Puro",
+    "image": "/images/cold_brew.png",
+    "price": 3.0,
+    "description": "Café frío concentrado y suave, sin diluir, con hielo. Una opción refrescante y de alta energía para los amantes del café fuerte y helado."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Café Helado",
+    "product": "Mocha Helado con Crema",
+    "image": "/images/mocha_helado.png",
+    "price": 3.5,
+    "description": "Café helado con jarabe de chocolate, leche y crema batida. Una deliciosa combinación de sabores para los amantes del chocolate y el café."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Café Helado",
+    "product": "Latte Helado de Caramelo",
+    "image": "/images/latte_helado.png",
+    "price": 3.2,
+    "description": "Latte helado con un toque de delicioso jarabe de caramelo. Una opción dulce y refrescante para disfrutar en días calurosos."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Café Helado",
+    "product": "Affogato Refrescante",
+    "image": "/images/affogato.png",
+    "price": 4.0,
+    "description": "Una variante refrescante del clásico affogato, con una bola de helado en café espresso. Una delicia para los amantes del café y el helado."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Café Helado",
+    "product": "Coffee Tonic con Limón",
+    "image": "/images/coffee_tonic_limon.png",
+    "price": 4.2,
+    "description": "Una bebida única que combina café concentrado con tónica y un toque de limón. Refrescante y ligeramente efervescente."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Té Helado",
+    "product": "Té Helado de Melocotón",
+    "image": "/images/te_melocoton.png",
+    "price": 2.5,
+    "description": "Té helado con sabor a melocotón, perfectamente dulce y refrescante. Una opción clásica para los días calurosos."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Té Helado",
+    "product": "Té Verde Frío con Menta",
+    "image": "/images/te_verde_menta.png",
+    "price": 2.8,
+    "description": "Té verde helado con infusión de menta fresca. Una combinación refrescante y revitalizante."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Té Helado",
+    "product": "Té Negro con Limón y Hierbabuena",
+    "image": "/images/te_negro_limon_hierbabuena.png",
+    "price": 2.7,
+    "description": "Té negro helado con el toque cítrico del limón y la frescura de la hierbabuena. Una opción vibrante para los amantes del té."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Té Helado",
+    "product": "Té Helado de Frambuesa",
+    "image": "/images/te_frambuesa.png",
+    "price": 3.0,
+    "description": "Té helado con sabor a frambuesa, una mezcla afrutada y deliciosa para disfrutar en cualquier momento."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Té Helado",
+    "product": "Té de Mango Helado",
+    "image": "/images/te_helado_mango.png",
+    "price": 3.2,
+    "description": "Té helado con el dulce y tropical sabor del mango. Una opción exótica y refrescante."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Refrescos",
+    "product": "Limonada de Frambuesa",
+    "image": "/images/limonada_frambuesa.png",
+    "price": 2.5,
+    "description": "Limonada con un toque frutal de frambuesa. Refrescante y equilibrada para saciar la sed en cualquier momento."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Refrescos",
+    "product": "Refresco de Frutas del Bosque",
+    "image": "/images/frutas_del_bosque.png",
+    "price": 2.8,
+    "description": "Una mezcla refrescante de diferentes frutas del bosque en una bebida deliciosa. Ideal para los amantes de los sabores frutales."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Refrescos",
+    "product": "Refresco de Tamarindo",
+    "image": "/images/tamarindo.png",
+    "price": 2.7,
+    "description": "Un refresco exótico con sabor a tamarindo, una bebida única y llena de sabor para disfrutar en cualquier ocasión."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Refrescos",
+    "product": "Agua de Pepino y Limón",
+    "image": "/images/agua_pepino.png",
+    "price": 2.5,
+    "description": "Agua refrescante con rodajas de pepino y limón. Una opción ligera y revitalizante para calmar la sed."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Refrescos",
+    "product": "Limonada de Lavanda",
+    "image": "/images/limonada_lavanda.png",
+    "price": 3.0,
+    "description": "Limonada con un toque floral de lavanda. Una bebida única y aromática para aquellos que buscan algo diferente."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles",
+    "product": "Espresso Martini",
+    "image": "/images/espresso_martini.png",
+    "price": 7.5,
+    "description": "Un cóctel elegante que combina vodka, licor de café y un espresso fuerte. Una experiencia vibrante para los amantes del café y el martini."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles",
+    "product": "Mojito de Café",
+    "image": "/images/mojito_cafe.png",
+    "price": 6.8,
+    "description": "Una versión única del clásico mojito, con un toque de café. Refrescante y con la combinación perfecta de menta y café."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles",
+    "product": "Menta Frappé con Vodka",
+    "image": "/images/menta_frappe_vodka.png",
+    "price": 8.0,
+    "description": "Un cóctel helado y refrescante que combina menta fresca, vodka y hielo triturado. Perfecto para los días calurosos."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles",
+    "product": "Cóctel de Té y Ginebra",
+    "image": "/images/te_ginebra.png",
+    "price": 7.2,
+    "description": "Una mezcla sofisticada de té helado, ginebra y un toque de cítricos. Una opción elegante para los amantes de los cócteles."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles",
+    "product": "Piña Colada con Café",
+    "image": "/images/cafe_pina_colada.png",
+    "price": 8.5,
+    "description": "Una variante del clásico cóctel tropical, con piña, coco y un toque de café. Una opción exótica y deliciosa."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles sin Alcohol",
+    "product": "Virgin Mojito de Frutas Rojas",
+    "image": "/images/mojito_frutos_rojos.png",
+    "price": 5.0,
+    "description": "Una versión sin alcohol del clásico mojito, con la frescura de las frutas rojas. Refrescante y sin igual."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles sin Alcohol",
+    "product": "Piña Colada Sin Alcohol",
+    "image": "/images/pina_colada_sin.png",
+    "price": 5.5,
+    "description": "La versión sin alcohol de la clásica Piña Colada, con piña fresca, crema de coco y hielo. Ideal para disfrutar sin restricciones."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles sin Alcohol",
+    "product": "Refresco Tropical Sin Alcohol",
+    "image": "/images/tropical_sin.png",
+    "price": 4.8,
+    "description": "Una mezcla tropical sin alcohol con jugos de frutas exóticas y un toque de soda. Una opción refrescante para todos los gustos."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles sin Alcohol",
+    "product": "Shirley Temple Especial",
+    "image": "/images/shirley_temple.png",
+    "price": 4.5,
+    "description": "Una versión especial del clásico Shirley Temple con ginger ale, granadina y una cereza. Una bebida sin alcohol con un toque festivo."
+  },
+  {
+    "category": "Bebidas Frías",
+    "subcategory": "Cócteles sin Alcohol",
+    "product": "Ginger Fizz Refrescante",
+    "image": "/images/ginger_fizz.png",
+    "price": 5.2,
+    "description": "Una bebida efervescente sin alcohol que combina ginger beer, limón y menta. Refrescante y llena de sabor para disfrutar en cualquier ocasión."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Bollería",
+    "product": "Croissant de Almendra",
+    "image": "/images/croissant_almendra.png",
+    "price": 2.5,
+    "description": "Delicioso croissant con relleno de almendra y hojaldre crujiente. Una opción perfecta para los amantes de los sabores a frutos secos."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Bollería",
+    "product": "Napolitana de Chocolate",
+    "image": "/images/napolitana_chocolate.png",
+    "price": 2.2,
+    "description": "Napolitana de hojaldre rellena de chocolate, horneada a la perfección. Un clásico para los amantes del chocolate y el hojaldre."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Bollería",
+    "product": "Danish de Frambuesa",
+    "image": "/images/danish_frambuesa.png",
+    "price": 2.8,
+    "description": "Pastelería danesa con un toque de frescura gracias a la frambuesa. Un deleite dulce para cualquier ocasión."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Bollería",
+    "product": "Rollitos de canela",
+    "image": "/images/cinnamon_rolls.png",
+    "price": 2.5,
+    "description": "Esponjosos rollitos de canela con una mezcla única de especias. El acompañamiento perfecto para tu café o té."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Bollería",
+    "product": "Apple Turnover",
+    "image": "/images/apple_turnover.png",
+    "price": 2.5,
+    "description": "Manzanas frescas y sazonadas envueltas en hojaldre crujiente, dorado a la perfección. Un clásico reconfortante y delicioso."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Cookies",
+    "product": "Chocolate blanco y frambuesa",
+    "image": "/images/cookie_blanco_frambuesa.png",
+    "price": 1.5,
+    "description": "Galletas suaves con trozos de chocolate blanco y frambuesas, ofreciendo una combinación única y deliciosa."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Cookies",
+    "product": "Chocolate",
+    "image": "/images/cookie_chocolate.png",
+    "price": 1.3,
+    "description": "Galletas clásicas con generosos trozos de cacao, perfectas para los amantes del chocolate en cada bocado."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Cookies",
+    "product": "Avena y pasas",
+    "image": "/images/cookie_avena_pasas.png",
+    "price": 1.3,
+    "description": "Galletas saludables con avena y pasas, una opción deliciosa y nutritiva para satisfacer tus antojos."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Cookies",
+    "product": "Menta y chocolate negro",
+    "image": "/images/cookie_menta_negro.png",
+    "price": 1.3,
+    "description": "Galletas refrescantes con una combinación de menta y chocolate oscuro, ofreciendo una experiencia explosiva."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Cookies",
+    "product": "Almendra y naranja",
+    "image": "/images/cookie_almendra_naranja.png",
+    "price": 1.5,
+    "description": "Galletas crujientes con trozos de almendra y un toque cítrico de naranja. Una mezcla perfecta de sabores."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Tartas",
+    "product": "Cheesecake con frutas del bosque",
+    "image": "/images/cheesecake.png",
+    "price": 5,
+    "description": "Tarta de queso cremosa con una mezcla de frutas del bosque frescas y un toque de gelatina brillante."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Tartas",
+    "product": "Chocolate y avellanas",
+    "image": "/images/tarta_choco_avellana.png",
+    "price": 4.8,
+    "description": "Tentadora tarta de chocolate con una capa de crema de avellanas y decorada con avellanas tostadas."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Tartas",
+    "product": "Mango y coco",
+    "image": "/images/tarta_mango_coco.png",
+    "price": 5.5,
+    "description": "Tarta exótica con capas de mango fresco y coco rallado, creando una combinación tropical y deliciosa."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Tartas",
+    "product": "Frambuesa y almendra",
+    "image": "/images/tarta_frambuesa_almendra.png",
+    "price": 5,
+    "description": "Tarta delicada con frambuesas frescas y una base de almendra, ofreciendo un equilibrio perfecto entre dulzura y acidez."
+  },
+  {
+    "category": "Repostería",
+    "subcategory": "Tartas",
+    "product": "Merengada de limón",
+    "image": "/images/tarta_merengue_limon.png",
+    "price": 5,
+    "description": "Tarta refrescante con un relleno de limón suave y un merengue esponjoso y dorado. La combinación perfecta de dulce y ácido."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Croissants Salados",
+    "product": "Croissant de Jamón y Queso",
+    "image": "/images/croissant_jamon_queso.png",
+    "price": 2.5,
+    "description": "Un delicioso croissant relleno de jamón y queso, perfecto para satisfacer tus antojos salados."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Croissants Salados",
+    "product": "Croissant de Espinacas y Queso Feta",
+    "image": "/images/croissant_espinacas_feta.png",
+    "price": 2.8,
+    "description": "Un croissant con un relleno sabroso de espinacas frescas y queso feta, para un toque gourmet."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Croissants Salados",
+    "product": "Croissant de Pollo y Pesto",
+    "image": "/images/croissant_pollo_pesto.png",
+    "price": 3.0,
+    "description": "Un croissant relleno de pollo tierno y pesto aromático, creando una combinación perfecta de sabores."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Croissants Salados",
+    "product": "Croissant Vegetariano",
+    "image": "/images/croissant_vegetariano.png",
+    "price": 2.7,
+    "description": "Un croissant vegetariano con una mezcla colorida de verduras frescas y queso, para una opción saludable y deliciosa."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Ensaladas",
+    "product": "Ensalada de Quinoa y Aguacate",
+    "image": "/images/ensalada_quinoa_aguacate.png",
+    "price": 4.5,
+    "description": "Una ensalada nutritiva con quinoa, aguacate, tomate y aderezo de limón, perfecta para una opción ligera y saludable."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Ensaladas",
+    "product": "Ensalada César con Pollo",
+    "image": "/images/ensalada_cesar.png",
+    "price": 5.0,
+    "description": "Una clásica ensalada césar con tiernos trozos de pollo, crutones y aderezo cremoso, para una experiencia deliciosa y satisfactoria."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Ensaladas",
+    "product": "Ensalada de Frutas Frescas",
+    "image": "/images/ensalada_frutas_frescas.png",
+    "price": 4.2,
+    "description": "Una refrescante ensalada de frutas frescas con una mezcla de sabores jugosos y coloridos, perfecta para un antojo saludable."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Ensaladas",
+    "product": "Ensalada Caprese",
+    "image": "/images/ensalada_caprese.png",
+    "price": 4.8,
+    "description": "Una ensalada clásica caprese con tomate, mozzarella fresca y albahaca, drizzled con aceite de oliva y balsámico."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Ensaladas",
+    "product": "Ensalada Mediterránea",
+    "image": "/images/ensalada_mediterranea.png",
+    "price": 6.8,
+    "description": "Una ensalada vibrante con tomates, pepino, aceitunas, queso feta y aderezo de aceite de oliva. Una explosión de sabores mediterráneos."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Baguettes",
+    "product": "Baguette de Pavo y Queso",
+    "image": "/images/baguette_pavo_queso.png",
+    "price": 3.5,
+    "description": "Una baguette deliciosa rellena de pavo, queso y condimentos frescos, perfecta para un almuerzo rápido y sabroso."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Baguettes",
+    "product": "Baguette Vegetariana",
+    "image": "/images/baguette_vegetariana.png",
+    "price": 3.2,
+    "description": "Una baguette vegetariana llena de ingredientes frescos como aguacate, tomate, queso y aderezo, para una opción ligera y deliciosa."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Baguettes",
+    "product": "Baguette de Pavo y Aguacate",
+    "image": "/images/baguette_pavo_aguacate.png",
+    "price": 8.0,
+    "description": "Una baguette fresca rellena de finas lonchas de pavo, aguacate, lechuga y mayonesa. Una opción sustanciosa para satisfacer el hambre."
+  },
+  {
+    "category": "Snacks",
+    "subcategory": "Baguettes",
+    "product": "Baguette de Salmón Ahumado",
+    "image": "/images/baguette_salmon.png",
+    "price": 9.0,
+    "description": "Una baguette gourmet con salmón ahumado, queso crema, alcaparras y cebollín. Perfecta para los amantes del sabor del mar."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Tostadas",
+    "product": "Tostadas de Aguacate y Huevo",
+    "image": "/images/tostadas_aguacate_huevo.png",
+    "price": 5.0,
+    "description": "Tostadas crujientes cubiertas con aguacate fresco y huevo pochado, sazonadas con sal y pimienta, para un brunch delicioso y nutritivo."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Tostadas",
+    "product": "Tostadas Francesas con Frutas",
+    "image": "/images/tostadas_francesas.png",
+    "price": 4.8,
+    "description": "Tostadas francesas esponjosas cubiertas con una mezcla de frutas frescas y jarabe de arce, para un toque dulce y delicioso."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Tostadas",
+    "product": "Tostadas de Salmón Ahumado",
+    "image": "/images/tostadas_salmon.png",
+    "price": 6.2,
+    "description": "Tostadas crujientes cubiertas con suculento salmón ahumado, queso crema y eneldo, para un brunch elegante y delicioso."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Tostadas",
+    "product": "Tostadas de Tomate y Aguacate",
+    "image": "/images/tostadas_tomate_aguacate.png",
+    "price": 4.5,
+    "description": "Tostadas ligeras con rodajas de tomate jugosas, aguacate cremoso y condimentos frescos, para una opción fresca y satisfactoria."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Gofres",
+    "product": "Gofres de Fresa",
+    "image": "/images/gofre_fresa.png",
+    "price": 4.5,
+    "description": "Deliciosos gofres esponjosos cubiertos con rodajas frescas de fresa y jarabe de arce, una opción irresistible para el brunch."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Gofres",
+    "product": "Gofres de Chocolate",
+    "image": "/images/gofre_chocolate.png",
+    "price": 4.8,
+    "description": "Gofres con chips de chocolate, servidos con crema batida y un toque de cacao en polvo. Una delicia para los amantes del chocolate."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Gofres",
+    "product": "Gofres de Plátano y Caramelo",
+    "image": "/images/gofre_platano_caramelo.png",
+    "price": 5.0,
+    "description": "Gofres dorados cubiertos con plátanos caramelizados y un drizzle de jarabe de caramelo. Una combinación celestial de sabores dulces."
+  },
+  {
+    "category": "Brunch",
+    "subcategory": "Gofres",
+    "product": "Gofres Salados con Aguacate",
+    "image": "/images/gofre_salado.png",
+    "price": 5.2,
+    "description": "Gofres salados con aguacate fresco, huevo pochado y un toque de salsa holandesa. Una opción sabrosa para un brunch nutritivo."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "De Frutas",
+    "product": "Smoothie Tropical",
+    "image": "/images/smoothie_tropical.png",
+    "price": 4.5,
+    "description": "Un smoothie refrescante con piña, mango, plátano y espinacas. Una explosión de sabores tropicales para revitalizar tu día."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "De Frutas",
+    "product": "Fresas y plátano",
+    "image": "/images/smoothie_fresa_platano.png",
+    "price": 4.5,
+    "description": "Batido suave y cremoso con la mezcla clásica de fresas maduras y plátano. Un deleite refrescante y lleno de energía."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "De Frutas",
+    "product": "Arándanos y coco",
+    "image": "/images/smoothie_arandano_coco.png",
+    "price": 4.7,
+    "description": "Delicioso smoothie antioxidante con arándanos frescos y coco cremoso. Una opción saludable y llena de sabor."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "De Frutas",
+    "product": "Melocotón y yogur",
+    "image": "/images/smoothie_melocoton_yogur.png",
+    "price": 4.5,
+    "description": "Batido reconfortante con la dulzura del melocotón y el toque cremoso del yogur. Perfecto para disfrutar en cualquier momento del día."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "De Frutas",
+    "product": "Kiwi y espinacas",
+    "image": "/images/smoothie_kiwi_espinacas.png",
+    "price": 4.8,
+    "description": "Smoothie verde revitalizante con la frescura del kiwi y la nutrición de las espinacas. Una opción saludable y deliciosa."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Especiales",
+    "product": "Green Detox Smoothie",
+    "image": "/images/smoothie_green_detox.png",
+    "price": 5,
+    "description": "Smoothie detox con una mezcla especial de ingredientes verdes, perfecto para revitalizar y refrescar el cuerpo."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Especiales",
+    "product": "Protein Power Punch",
+    "image": "/images/smoothie_protein.png",
+    "price": 5.5,
+    "description": "Smoothie cargado de proteínas con la combinación perfecta de frutas y proteína en polvo. Ideal para después del entrenamiento."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Especiales",
+    "product": "Energético de avena",
+    "image": "/images/smoothie_ener_avena.png",
+    "price": 4.8,
+    "description": " Smoothie energético con avena, plátano y otros ingredientes nutritivos para un impulso instantáneo de energía."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Especiales",
+    "product": "Mango Lassai Especial",
+    "image": "/images/smoothie_lassai.png",
+    "price": 5,
+    "description": "Clásico lassi indio con un toque especial de mango, creando una bebida cremosa y llena de sabor."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Granizados",
+    "product": "Frutas tropicales on the Rocks",
+    "image": "/images/granizado_on_the_rocks.png",
+    "price": 4.5,
+    "description": "Mezcla refrescante de frutas tropicales con hielo, perfecta para disfrutar en días calurosos."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Granizados",
+    "product": "Berry Blast Freeze",
+    "image": "/images/granizado_berry_blast.png",
+    "price": 4.3,
+    "description": "Explosión de bayas congeladas en un delicioso smoothie con hielo. Una opción refrescante y llena de antioxidantes."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Granizados",
+    "product": "Piña Colada",
+    "image": "/images/granizado_pina_colada.png",
+    "price": 4.7,
+    "description": "Clásica Piña Colada congelada con piña fresca, coco y hielo. Una bebida veraniega perfecta para relajarse."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Granizados",
+    "product": "Blue Lagoon",
+    "image": "/images/granizado_blue_lagoon.png",
+    "price": 4.8,
+    "description": "Smoothie azul vibrante con la frescura de las bayas y el toque especial de hielo. Una experiencia refrescante."
+  },
+  {
+    "category": "Smoothies",
+    "subcategory": "Granizados",
+    "product": "Coco fresco y lima slush",
+    "image": "/images/granizado_coco_lima.png",
+    "price": 4.5,
+    "description": "Combinación tropical de coco fresco y lima en un slush refrescante con hielo. Un escape a la playa en cada sorbo."
+  }
+]
