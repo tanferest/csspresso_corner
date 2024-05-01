@@ -17,19 +17,20 @@
         top: 0;
         width: 100%;
         min-height: 100vh;
-        background-color: $dark-cover
+        background-color: $dark-cover;
     }
     &__wrapper {
         z-index: 10;
         background-color: $main-color;
         height: 50vh;
         position: relative;
-        margin: 60px 0 30px 0;
+        margin: 50px 0 30px 0;
         padding: 5%;
         border-radius: 5px;
         display: flex;
         justify-content: center;
         align-items: center;
+        opacity: 90%;
     }
     &__text {
         color: $second-color;
@@ -38,7 +39,27 @@
         letter-spacing: .05rem;
         word-spacing: -0.1rem;
     }
-    &__btn {
-        z-index: 100;
+    &__btn--1 {
+        margin-bottom: 15px;
+        background-color: $main-color;
+        @include desktop {
+            &:hover {
+                background-color: $second-color;
+                color: $main-color;
+                border-color: $main-color;
+                text-decoration: underline;
+            }
+        }
+    }
+    &__btn--2 {
+        background-color: $second-dark;
+        @include desktop {
+            &:hover {
+                background-color: $second-color;
+                color: $second-dark;
+                border-color: $second-dark;
+                text-decoration: underline;
+            }
+        }
     }
 }
