@@ -16,13 +16,13 @@
         position: relative;
         bottom: 5px;
         @include tablet {
-            width: 150px;
+            width: 120px;
             left: 40px;
         }
     }
 
     @include tablet {
-        height: 126px;
+        height: 100px;
         justify-content: start;
     }
 };

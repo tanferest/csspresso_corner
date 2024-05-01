@@ -1,11 +1,12 @@
 // Fichero src/components/App.js
 import { useState, useEffect } from 'react';
-// import {Route, Routes} from 'react-router-dom';
+import {Route, Routes, Router} from 'react-router-dom';
 
 import ls from '../services/ls';
 import menuData from '../data/menu.json';
 import Header from './Header';
 import Homepage from './Homepage';
+import Menu from './Menu';
 
 const App = () => {
 
@@ -50,8 +51,11 @@ const App = () => {
   // })
 
 return <>
-  <Header></Header>
-  <Homepage></Homepage>
+  <Header />
+    <Routes>
+      <Route path="/" element={<Homepage />} />
+      <Route path="/menu" element={<Menu />}/>
+    </Routes>
   {/* <ul>
     {menuList}
   </ul> */}
