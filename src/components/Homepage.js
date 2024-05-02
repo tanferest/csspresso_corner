@@ -12,7 +12,7 @@ function Homepage () {
         </div>
         <div className="homepage__buttons">
             <Link className='btn homepage__btn--1' to="/menu">Ver carta</Link>
-            <Link className='btn homepage__btn--2' to="">Conócenos</Link>
+            <Link className='btn homepage__btn--2' to="/conocenos">Conócenos</Link>
         </div>
     </main>
 };

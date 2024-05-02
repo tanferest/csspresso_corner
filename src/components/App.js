@@ -1,35 +1,32 @@
 // Fichero src/components/App.js
 import { useState, useEffect } from 'react';
 import {Route, Routes, Router} from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 
 import ls from '../services/ls';
 import menuData from '../data/menu.json';
 import Header from './Header';
 import Homepage from './Homepage';
 import Menu from './Menu';
+import Conocenos from './Conocenos';
 
 const App = () => {
 
-  // const [menu, setMenu] = useState(ls.get('menu',[]));
+  const [menu, setMenu] = useState(ls.get('menu',[]));
 
 
-  // useEffect(() => {
-  //   if (menu.length === 0) {
-  //     setMenu(menuData);
-  //   }
-  // }, [menu]);
+  useEffect(() => {
+    if (menu.length === 0) {
+      setMenu(menuData);
+    }
+  }, [menu]);
 
-  // // useEffect(() => {
-  // //   ls.set('menu', menu);
-  // // }, [menu]);
+  useEffect(() => {
+    ls.set('menu', menu);
+  }, [menu]);
 
-  // console.log(menu[4]);
+  const { pathname } = useLocation();
 
-  // if (menu[4]) {
-  //   console.log(menu[4].product);
-  // } else {
-  //   console.log("El objeto menu[4] no está definido o es null");
-  // }
 
   // const menuList = menu
   // .map((item, index) => {
@@ -46,7 +43,6 @@ const App = () => {
   //     <p>Precio: {item.price}</p>
   //     <p>{item.description}</p>
   //   </li>
-  //   <hr />
   //   </>)
   // })
 
@@ -54,7 +50,8 @@ return <>
   <Header />
     <Routes>
       <Route path="/" element={<Homepage />} />
-      <Route path="/menu" element={<Menu />}/>
+      <Route path="/menu" element={<Menu data={menu} location={pathname}/>}/>
+      <Route path="/conocenos" element={<Conocenos location={pathname} />} />
     </Routes>
   {/* <ul>
     {menuList}

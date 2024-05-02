@@ -1,10 +1,8 @@
-function Menu () {
+import MenuBar from "./MenuBar";
+
+function Menu (props) {
     return <>
-    <ul>
-        <li>Categoría 1</li>
-        <li>Categoría 2</li>
-        <li>Categoría 3</li>
-    </ul>
+    <MenuBar location={props.location}/>
     </>
 }
 

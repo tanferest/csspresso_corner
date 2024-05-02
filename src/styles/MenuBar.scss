@@ -1,0 +1,17 @@
+@import './Variables.scss';
+@import './Mixins.scss';
+
+.bar {
+    width: 100%;
+    height: 70px;
+    background-color: $main-very-light;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: $second-color;
+    border-bottom: 3px solid $second-color;
+    &__title {
+        font-weight: 400;
+    }
+}
